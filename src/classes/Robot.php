@@ -8,10 +8,6 @@ class Robot
     protected $speed;
     protected $weight;
 
-    public function create()
-    {
-
-    }
     public function getSpeed()
     {
         return $this->speed;
